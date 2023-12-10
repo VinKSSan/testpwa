@@ -1,0 +1,15 @@
+body{
+    @media(max-width: 1000px){
+        width: 10rem;
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+.menu{
+    @media(max-width: 1000px){
+        position: relative;
+        top: 0;
+        left: 1rem;
+    }  
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="7.7800102"
+   height="14.99762"
+   viewBox="0 0 7.7800102 14.99762"
+   fill="none"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="icon-facebook.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     d="M 5.0542099,14.997621 V 8.1676206 h 2.3041 l 0.3425,-2.67415 h -2.6466 v -1.70333 c 0,-0.77167 0.215,-1.3 1.3225,-1.3 h 1.4033 V 0.10597064 c -0.6828,-0.07317 -1.3691,-0.1085 -2.0558,-0.1058300002 -2.03671,0 -3.43505,1.2433299602 -3.43505,3.5258299602 v 1.9625 H -1.1993408e-7 v 2.67415 H 2.2941599 v 6.8350004 z"
+     fill="#5B1FA6"
+     id="path1"
+     style="fill:#00ffff" />
+</svg>

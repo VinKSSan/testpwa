@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800"
+   height="800"
+   viewBox="0 0 32 32"
+   fill="none"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="artigos.svg"
+   inkscape:export-filename="artigos.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     clip-path="url(#clip0_901_889)"
+     id="g1"
+     style="fill:none;stroke:#00ffff;stroke-opacity:1">
+    <path
+       d="M 7,25 V 2.005 C 7,2.005 7,1 8,1 h 22 c 0,0 1,0.005 1,1.005 v 26 c 0,0 0,2.995 -3,2.995 H 4 c 0,0 -3,0.005 -3,-3.995 v -15 C 1,12.005 1,11 2,11 h 2 m 9,-4 h 5 m -5,4 h 12 m -12,4 h 12 m -12,4 h 12 m -12,4 h 12"
+       stroke="#000000"
+       stroke-width="2"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path1"
+       style="fill:none;stroke:#00ffff;stroke-opacity:1" />
+  </g>
+  <defs
+     id="defs1">
+    <clipPath
+       id="clip0_901_889">
+      <rect
+         width="32"
+         height="32"
+         fill="#ffffff"
+         id="rect1"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+</svg>

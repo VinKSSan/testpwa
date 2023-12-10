@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="14.746274"
+   height="14.746628"
+   viewBox="0 0 14.746274 14.746628"
+   fill="none"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="icon-time-purple.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <path
+     opacity="0.5"
+     d="m 4.790726,1.1385415 c 3.44325,-1.42650001 7.3905,0.20925 8.817,3.6525 1.4265,3.44325 -0.2092,7.3905495 -3.6525,8.8170495 -3.44325,1.4265 -7.3905,-0.2093 -8.817,-3.6524995 -1.42575,-3.4433 0.20925,-7.39055 3.6525,-8.81705"
+     stroke="#5B1FA6"
+     stroke-width="1.25"
+     id="path1"
+     style="fill:none;stroke:#00f0ff;stroke-opacity:1" />
+  <path
+     opacity="0.5"
+     d="m 7.161496,4.3620615 v 3.48825 l 2.74203,1.67178"
+     stroke="#5B1FA6"
+     stroke-width="1.25"
+     id="path2"
+     style="stroke:#00f0ff;stroke-opacity:1" />
+</svg>

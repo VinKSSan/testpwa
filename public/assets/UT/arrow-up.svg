@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="7.5610495"
+   height="12.728392"
+   viewBox="0 0 7.5610495 12.728392"
+   fill="none"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="arrow-up.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     d="m 3.7805293,12.728392 v -5.8039396 -5.80392 m 0,0 3.25019,3.25019 m -3.25019,-3.25019 -3.2502,3.25019"
+     stroke="white"
+     stroke-width="1.5"
+     id="path1"
+     style="fill:none;stroke:#0bfff5;stroke-opacity:1" />
+  <rect
+     style="opacity:0.968885;fill:none;stroke:#0bfff5;stroke-width:0.8498;stroke-opacity:1"
+     id="rect1"
+     width="0.019995401"
+     height="0.062726155"
+     x="2.3578973"
+     y="3.2492104"
+     ry="0"
+     inkscape:transform-center-x="-0.010766141"
+     inkscape:transform-center-y="-0.41673489"
+     transform="matrix(0.66643334,-0.74556462,0.67273406,0.73988437,0,0)" />
+</svg>

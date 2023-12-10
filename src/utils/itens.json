@@ -1,0 +1,14 @@
+{
+    "a":{
+        "slug":"aap",
+        "nome":"aape"
+    },
+    "b":{
+        "slug":"bap",
+        "nome":"bape"
+    },
+    "c":{
+        "slug":"cap",
+        "nome":"cape"
+    }
+}
